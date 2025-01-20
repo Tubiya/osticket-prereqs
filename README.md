@@ -37,7 +37,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 <p>
-First we must install the is (internet infomation service) by going to control panel then click (uninstall programs). Then at your top left click (turn windows features on or off). An box should apear skroll down till you see internet infomation services click the box to fill it then click the plus next to the box to opean more features do the same to (world wide web services) and (application development features) then click the box next to CGI press ok then close
+First you must install the IIS (internet infomation service) by going to the control panel, then click (uninstall programs). Then at your top left click (turn windows features on or off). An box should apear skroll down till you see internet infomation services click the box to fill it then click the plus next to the box to opean more features do the same to (world wide web services) and (application development features) then click the box next to CGI press ok then close
 </p>
 <br />
 
