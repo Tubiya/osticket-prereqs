@@ -45,7 +45,10 @@ First you must install the IIS (internet infomation service) by going to control
 <img width="407" alt="image" src="https://github.com/user-attachments/assets/7d7b4648-e7a4-4ce9-834e-fc5d39c1b1ff" 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+From the “osTicket-Installation-Files” folder, install PHP Manager for IIS.Then from the “osTicket-Installation-Files” folder install the Rewrite Module 
+
+
+
 </p>
 <br />
 
