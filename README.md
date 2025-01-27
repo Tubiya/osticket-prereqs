@@ -42,13 +42,10 @@ First you must install the IIS (internet infomation service) by going to control
 <br />
 
 <p>
-<img width="407" alt="image" src="https://github.com/user-attachments/assets/7d7b4648-e7a4-4ce9-834e-fc5d39c1b1ff" 
+<img width="379" alt="image" src="https://github.com/user-attachments/assets/00820ffc-522a-43da-b9d2-0e7d3c82ef69" />
 </p>
 <p>
-From the “osTicket-Installation-Files” folder, install PHP Manager for IIS.Then from the “osTicket-Installation-Files” folder install the Rewrite Module 
-
-
-
+From the “osTicket-Installation-Files” folder, install PHP Manager for IIS.Then from the “osTicket-Installation-Files” folder install the Rewrite Module. Now from here you will create an directory name C:\PHP, to do this go to the bottem of the screen right click the file folder go to file explorer and in your C Drive create PHP folder. 
 </p>
 <br />
 
