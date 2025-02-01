@@ -45,7 +45,10 @@ First you must install the IIS (internet infomation service) by going to control
 <img width="379" alt="image" src="https://github.com/user-attachments/assets/00820ffc-522a-43da-b9d2-0e7d3c82ef69" />
 </p>
 <p>
-From the “osTicket-Installation-Files” folder, install PHP Manager for IIS.Then from the “osTicket-Installation-Files” folder install the Rewrite Module. Now from here you will create an directory name C:\PHP, to do this go to the bottem of the screen right click the file folder go to file explorer and in your C Drive create PHP folder. 
+From the “osTicket-Installation-Files” folder, install PHP Manager for IIS.Then from the “osTicket-Installation-Files” folder install the Rewrite Module. Now from here you will create an directory name C:\PHP, to do this go to the bottem of the screen right click the file folder go to file explorer and in your C Drive create PHP folder. At this point unzip and extract the PHP file into the PHP folder that you just created. From the osticket-installation-Files folder install VC_redist x66.exe. Next from the osTicket-installation-files folder again install MYSQL 5.5.62 
+  - Typical Setup
+  - Launch Configuration Wizard (after install)
+  - Standard Configuration
 </p>
 <br />
 
@@ -53,6 +56,6 @@ From the “osTicket-Installation-Files” folder, install PHP Manager for IIS.T
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Open IIS an Admin, then register PHPfrom within IIS (PHP Manager - C:\PHP\php-cgi.exe). Now you need to reload IIS (stop and start the server witnin the IIS). From here you must install osTicket v1.15.8, so from osTicket-installation-Files folder unzip "osTicket-v1.15.8.zip" and copy the upload folder into C:\inetpub\wwwroot within the C:\inetpub\wwwroot, Rename upload to osTicket. Reload IIS stop and start the server. Now in IIS go to sites-> Default-> osTicket -Onthe right , click Browse *:80 
 </p>
 <br />
