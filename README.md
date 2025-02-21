@@ -53,7 +53,7 @@ From the “osTicket-Installation-Files” folder, install PHP Manager for IIS.T
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="482" alt="image" src="https://github.com/user-attachments/assets/0a56f05d-15ce-47f2-a37e-69bd72d65bb1" />
 </p>
 <p>
 Open IIS an Admin, then register PHPfrom within IIS (PHP Manager - C:\PHP\php-cgi.exe). Now you need to reload IIS (stop and start the server witnin the IIS). From here you must install osTicket v1.15.8, so from osTicket-installation-Files folder unzip "osTicket-v1.15.8.zip" and copy the upload folder into C:\inetpub\wwwroot within the C:\inetpub\wwwroot, Rename upload to osTicket. Reload IIS stop and start the server. Now in IIS go to sites-> Default-> osTicket -Onthe right , click Browse *:80 
@@ -61,7 +61,7 @@ Open IIS an Admin, then register PHPfrom within IIS (PHP Manager - C:\PHP\php-cg
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="239" alt="image" src="https://github.com/user-attachments/assets/db77c7a4-c07b-465f-83ac-e2e727653c09" />
 </p>
 <p>
 Now you need to note that some extensions are not enabled
@@ -89,9 +89,8 @@ Default email (receives email from customers)
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="235" alt="image" src="https://github.com/user-attachments/assets/b42cc7b4-8831-4dde-9e51-1d2e599c937b" />
 </p>
-
 <p>
 From the “osTicket-Installation-Files” folder, install HeidiSQL
 - Open Heidi SQL
